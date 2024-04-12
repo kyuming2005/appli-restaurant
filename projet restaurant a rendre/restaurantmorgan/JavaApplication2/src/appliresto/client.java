@@ -10,5 +10,5 @@ package appliresto;
  * @author m.denis
  */
 public class client {
-    private groupe prenoms;
+    private client prenoms;
 }

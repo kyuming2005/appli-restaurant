@@ -9,8 +9,8 @@ package appliresto;
  * @author m.denis
  */
 public class commande {
-     private plat plat_principal;
-    private plat entrer;
-    private plat dessert;
-    private plat boisson;
+     private menu plat_principal;
+    private menu entrer;
+    private menu dessert;
+    private menu boisson;
 }

@@ -9,6 +9,6 @@ package appliresto;
  * @author m.denis
  */
 public class Table {
-    private numero numérotable;
-    private numero place;
+    private Table numérotable;
+    private Table place;
 }
